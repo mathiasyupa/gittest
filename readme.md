@@ -1,2 +1,2 @@
-pryecto 
+proyecto 
 12345
